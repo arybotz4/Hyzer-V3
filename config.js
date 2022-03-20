@@ -13,8 +13,8 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.linkGC = ['https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV', 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
-global.owner = ['6287892711054', '6287892711054', '6287892711054'] // Masukan nomot kalian
+global.linkGC = ['https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv', 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv', 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'] // ganti jadi group lu
+global.owner = ['6285828764046', '6285828764046', '6285828764046'] // Masukan nomot kalian
 global.mods = ['6287892711054', '6287892711054'] // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -79,14 +79,14 @@ global.nsfw = '“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mere
 global.eror = '_*Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
-global.watermark = '©shirobotz' //change the watermark (beberapa harus manual)
+global.watermark = '©zifabotz' //change the watermark (beberapa harus manual)
 
 // Ubah saja
-global.image = 'https://telegra.ph/file/43a5bfd09e6c7e9a8055f.jpg'
-global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
-global.kandang = 'https://telegra.ph/file/67a6ee607d03a4e52757d.jpg'
-global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
-global.thanks = 'https://telegra.ph/file/01917f7782b70de8f418d.jpg'
+global.image = 'https://telegra.ph/file/ea7cf76174811d416e1fd.jpg'
+global.bank = 'https://telegra.ph/file/ea7cf76174811d416e1fd.jpg'
+global.kandang = 'https://telegra.ph/file/ea7cf76174811d416e1fd.jpg'
+global.kolam = 'https://telegra.ph/file/ea7cf76174811d416e1fd.jpg'
+global.thanks = 'https://telegra.ph/file/ea7cf76174811d416e1fd.jpg'
 
 // tingkat kesulitan, semakin tinggi semakin susah
 global.multiplier = 500 // The higher, The harder levelup
